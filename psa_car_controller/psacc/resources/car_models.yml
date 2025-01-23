@@ -312,7 +312,7 @@
   battery_power: 0
   fuel_capacity: 55
   abrp_name:
-  reg: VR3FBYHZ.*
+  reg: VR3FBYHZRK.*
   max_elec_consumption: 0
   max_fuel_consumption: 30
 - !CarModel
